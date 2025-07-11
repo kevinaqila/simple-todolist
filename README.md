@@ -6,6 +6,13 @@ Sebuah aplikasi daftar tugas (Todo List) interaktif yang dibangun menggunakan Re
 
 ---
 
+### ✨ Live Demo
+
+You can try out the live calculator here:
+**[simple-project-mobile-calculator.netlify.app](https://simple-todo-list1.netlify.app/)**
+
+---
+
 ## ✨ Fitur
 
 * **Tambah Tugas**: Menambahkan tugas baru ke dalam daftar.
