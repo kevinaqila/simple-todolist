@@ -45,11 +45,11 @@ Pastikan Anda sudah menginstal Node.js dan npm (atau yarn) di mesin Anda.
 
 1.  **Clone repositori ini**
     ```sh
-    git clone [https://github.com/NAMA_USER_ANDA/NAMA_REPO_ANDA.git](https://github.com/NAMA_USER_ANDA/NAMA_REPO_ANDA.git)
+    git clone https://github.com/kevinaqila/simple-todolist.git
     ```
 2.  **Masuk ke direktori proyek**
     ```sh
-    cd NAMA_REPO_ANDA
+    cd simple-todolist
     ```
 3.  **Install semua paket yang dibutuhkan**
     ```sh
@@ -63,7 +63,3 @@ Pastikan Anda sudah menginstal Node.js dan npm (atau yarn) di mesin Anda.
 Buka [http://localhost:5173](http://localhost:5173) (atau port lain yang muncul di terminal Anda) di browser untuk melihat hasilnya.
 
 ---
-
-## 📄 Lisensi
-
-Didistribusikan di bawah Lisensi MIT.
