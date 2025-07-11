@@ -1,0 +1,98 @@
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+.visually-hidden {
+    position: absolute !important;
+    overflow: hidden;
+    height: 1px;
+    width: 1px;
+    white-space: nowrap;
+}
+
+.todo-list {
+    background-color: rgba(0, 0, 0, 0.741);
+    width: 400px;
+    padding: 80px;
+    border-radius: 10px;
+}
+
+.wrapper-form {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.wrapper-form input {
+    padding: 10px;
+    width: 400px;
+    border-radius: 5px;
+}
+
+.wrapper-task-status {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 30px 0;
+    justify-content: center;
+}
+
+.wrapper-task-status button {
+    flex: 1;
+    text-align: center;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.task {
+    display: flex;
+    background-color: grey;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+    justify-content: space-between;
+}
+
+.task-name {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 18px;
+}
+
+.task-name input[type="checkbox"] {
+    border-radius: 50px;
+}
+
+.task-edit input {
+    padding: 12px;
+    border-radius: 10px;
+}
+
+.btn-cancel {
+    background-color: rgb(122, 9, 9);
+}
+
+.btn-save {
+    background-color: rgba(0, 0, 255, 0.707);
+}
+
+.btn-group {
+    display: flex;
+    gap: 5px;
+}
+
+.btn-edit {
+    background-color: rgb(8, 8, 141);
+}
+
+.btn-delete {
+    background-color: rgb(178, 16, 16);
+}
